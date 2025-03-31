@@ -11,5 +11,18 @@
                 "description": "Cool song oder so"
             }
         ]
+    },
+    {
+        "album": "Favorites",
+        "songs": [
+            {
+                "link": "https://open.spotify.com/intl-de/track/5M4yti0QxgqJieUYaEXcpw?si=914918c658a74d73",
+                "description": "Eventually - Tame Impala"
+            },
+            {
+                "link": "https://open.spotify.com/intl-de/track/3hxIUxnT27p5WcmjGUXNwx?si=e47aee99c8da4fda",
+                "description": "Shut up my moms calling"
+            }
+        ]
     }
 ]
